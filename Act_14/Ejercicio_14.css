@@ -1,0 +1,19 @@
+body {
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  background-size: 1000px;
+ background-image: url("https://respuestas.tips/wp-content/uploads/2018/02/Donde-viven-los-pinguinos.jpg");
+}
+
+table {
+  background-color: aliceblue;
+  margin: auto;
+  margin-top: 400px;
+  width: 500px;
+  text-align: center;
+}
+
+.tr1 {
+  background-color: yellow;
+}
